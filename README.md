@@ -1,4 +1,5 @@
 # smartCuteBot
+El comandament necessita la targeta micro:bit V2 (No la V1)
 Projectes amb el robot Smart CuteBot
 El robot es desplaça gràcies a les senyals de ràdio que envien una micro:bit al robot Samrt Cutebot.
 Necessiteu un robot Smart Cute Bot amb la seva micro:bit i una micro:bit més que farà de comanadament.
